@@ -9,7 +9,7 @@ PhoBERT
 ChromaDB
 HyDE (Hypothetical Document Embedding)
 Gemini/OpenAI API
-⚙️ Kiến trúc hệ thống
+Kiến trúc hệ thống
 Documents → Chunking → PhoBERT Embeddings → ChromaDB
                                   ↑
 User Query → HyDE → Retriever (MMR) → Summarization → Final Answer
